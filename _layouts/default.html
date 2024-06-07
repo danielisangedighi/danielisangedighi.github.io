@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+
+  {% include nav.html %}
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+
+  <!-- Optional: Include any additional CSS or JavaScript files -->
+  {% if site.google_analytics %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+  {% endif %}
+</head>
+
+<body>
+  {% include header.html %}
+  
+  <!-- Resume Download Button -->
+  <div id="resume">
+    <h5 style=" margin-right: 30px;">My Resume/Curriculum-Vitae</h5>
+    <a href="/assets/documents/resume.pdf" download="Daniel Isangedighi's Resume.pdf">
+      <button class="download-btn">Click here to begin download</button>
+    </a>
+
+    <style>
+      .download-btn {
+          display: inline-block;
+          padding: 10px 20px;
+          font-size: 16px;
+          color: #fff;
+          background-color: #007bff;
+          border: none;
+          border-radius: 5px;
+          text-decoration: none;
+          cursor: pointer;
+          transition: background-color 0.3s ease;
+          margin: 30px;
+      }
+      
+      .download-btn:hover {
+          background-color: #0056b3;
+      }
+      
+      #resume {
+          text-align: right;
+          margin: 20px 0;
+      }
+
+    </style>
+  </div>
+
+  <main class="site-main">
+    {{ content }}
+  </main>
+  
+  {% include footer.html %}
+  
+  <script src="{{ site.baseurl }}/assets/js/main.js"></script>
+</body>
+</html>
