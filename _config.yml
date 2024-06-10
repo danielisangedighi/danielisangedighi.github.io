@@ -55,6 +55,10 @@ nav_links:
 #  - name: ""
 #    url: ""
 
+#Page
+page:
+  title: "Portfolio"
+
 # Project
 projects:
   - name: "GeoLocator"
