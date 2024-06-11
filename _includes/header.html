@@ -1,50 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <!-- Bootstrap CSS -->
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Stylesheet -->
-    <link rel="stylesheet" href="/assets/css/main.css">
-</head>
-<body>
-    <header>
-        <div class="image-container">
-            <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}'s passport">
-        </div>
-        <h2>{{ site.author.name }}</h2>
-        <h3>{{ site.author.bio }}</h3>
-    </header>
-
-    <style>
-        .image-container {
-            display: flex;
-            width: auto;
-            height: auto;
-            align-items: center;
-            background-color: #007bff; /* Add your background color here */   
-                 
-        }
-        
-        .image-container img {
-            margin-right: 10px; /* Adjust spacing between images as needed */
-            width: 100px; /* Set width of images */
-            height: auto; /* Maintain aspect ratio */           
-        }
-
-        h2, h3 {
-            margin: 10px 0;
-            text-align: left;
-            margin: 10px;
-        }
-
-       
-    </style>
-
-    <script src="/assets/js/main.js"></script>
-</body>
-</html>
-
-
+<header>
+    <div class="image-container">
+        <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}'s passport">
+    </div>
+    <h2>{{ site.author.name }}</h2>
+    <h3>{{ site.author.bio }}</h3>
+</header>
