@@ -10,8 +10,7 @@ Here are some of the projects I've worked on:
    This is an MVC Web Application built with Springboot framework to find your locations co-ordinates
    
    [[Link to project on GitHub](https://github.com/danielisangedighi/GeoLocator)]
-
----
+   
 
 2. **Secure Login Web Service Application**
 
