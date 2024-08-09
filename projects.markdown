@@ -19,8 +19,16 @@ Here are some of the projects I've worked on:
    Link: [[Link to project on GitHub](https://github.com/danielisangedighi/login-securitychasis)]
 
 
+3. **15-Puzzle Game**
+
+   This is a 15 puzzle game that can be played on a 4x4 grid.
+   Just shuffle the tiles, and then try to arrage them in ascending or descending order.
+   
+   Link: [[Link to project on GitHub](https://github.com/isangedighidaniel/15PuzzleGame)]
+
+
 <!--
-2. **Project 2**
+X. **Project 2**
    Description: [Brief description]
    Link: [Link to project]
 
