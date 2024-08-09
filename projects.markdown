@@ -13,11 +13,12 @@ Here are some of the projects I've worked on:
 
 ---
 
-2. **Login Web Service**
+2. **Secure Login Web Service Application**
 
-   This is a Boiler Plate or template for a Web Service that implements Login
+   This is a Boiler Plate or template for a Spring Boot MVC Web Application that implements secure login from a MySQL database.
 
-   Link: [[Link to project on GitHub](https://github.com/danielisangedighi/login_webservice)]
+   Link: [[Link to project on GitHub](https://github.com/danielisangedighi/login-securitychasis)]
+
 
 ---
 <!--
