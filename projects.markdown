@@ -16,15 +16,15 @@ Here are some of the projects I've worked on:
 
    This is a Boiler Plate or template for a Spring Boot MVC Web Application that implements secure login from a MySQL database.
 
-   Link: [[Link to project on GitHub](https://github.com/danielisangedighi/login-securitychasis)]
+   [[Link to project on GitHub](https://github.com/danielisangedighi/login-securitychasis)]
 
 
 3. **15-Puzzle Game**
 
    This is a 15 puzzle game that can be played on a 4x4 grid.
    Just shuffle the tiles, and then try to arrage them in ascending or descending order.
-   
-   Link: [[Link to project on GitHub](https://github.com/isangedighidaniel/15PuzzleGame)]
+
+   [[Link to project on GitHub](https://github.com/isangedighidaniel/15PuzzleGame)]
 
 
 <!--
