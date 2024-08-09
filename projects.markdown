@@ -19,7 +19,6 @@ Here are some of the projects I've worked on:
    Link: [[Link to project on GitHub](https://github.com/danielisangedighi/login-securitychasis)]
 
 
----
 <!--
 2. **Project 2**
    Description: [Brief description]
