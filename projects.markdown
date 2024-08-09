@@ -24,7 +24,7 @@ Here are some of the projects I've worked on:
    This is a 15 puzzle game that can be played on a 4x4 grid.
    Just shuffle the tiles, and then try to arrage them in ascending or descending order.
 
-   [[Link to project on GitHub](https://github.com/isangedighidaniel/15PuzzleGame)]
+   [[Link to project on GitHub](https://github.com/danielisangedighi/15PuzzleGame-main)]
 
 
 <!--
