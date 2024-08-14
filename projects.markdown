@@ -26,6 +26,14 @@ Here are some of the projects I've worked on:
 
    [[Link to project on GitHub](https://github.com/danielisangedighi/15PuzzleGame-main)]
 
+4. **REST API Demonstration**
+
+   This is a Spring Boot MVC application that implements the CRUD methods.
+   It uses a MySQL Database.
+   - You can test the CRUD method REST requests on POSTMAN or using *curl* commands.
+   - There is also a Web View that implements the CRUD methods (using web forms and tables).
+
+   [[Link to project on GitHub](https://github.com/danielisangedighi/REST-API-demo)]
 
 <!--
 X. **Project 2**
