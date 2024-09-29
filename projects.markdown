@@ -35,6 +35,15 @@ Here are some of the projects I've worked on:
 
    [[Link to project on GitHub](https://github.com/danielisangedighi/REST-API-demo)]
 
+5. **REST API with React Front-End**
+
+   This is a REST API with React front-end and Spring Boot back-end that implements the CRUD methods.
+   It uses a MySQL Database.
+   - You can test the CRUD method REST requests on POSTMAN or using *curl* commands.
+   - There is also a React Web View that implements the CRUD methods (using web forms and tables).
+
+   [[Link to project on GitHub](https://github.com/danielisangedighi/react-springboot-CRUD-REST-API)]
+
 <!--
 X. **Project 2**
    Description: [Brief description]
