@@ -44,6 +44,13 @@ Here are some of the projects I've worked on:
 
    [[Link to project on GitHub](https://github.com/danielisangedighi/react-springboot-CRUD-REST-API)]
 
+6. **Polling Application**
+
+   This is a Polling Web App built with Python using the Django Framework
+   It uses a MySQL Database.
+
+   [[Link to project on GitHub](https://github.com/danielisangedighi/PythonDjango_PollingApp)]
+
 <!--
 X. **Project 2**
    Description: [Brief description]
